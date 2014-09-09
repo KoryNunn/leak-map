@@ -7,11 +7,19 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "grape": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/leak-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/leak-map/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/leak-map"
 }
