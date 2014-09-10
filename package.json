@@ -1,6 +1,6 @@
 {
   "name": "leak-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shit weak-map that leaks and is generally bad.",
   "main": "index.js",
   "directories": {
