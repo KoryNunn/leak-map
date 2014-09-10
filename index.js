@@ -1,5 +1,5 @@
 function validateKey(key){
-    if(!key || (typeof key !== 'object')){
+    if(!key || (typeof key !== 'object' || typeof key !== 'function')){
         throw key + " is not a valid WeakMap key.";
     }
 }
